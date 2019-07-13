@@ -38,5 +38,6 @@ public class ProductInfo {
     /** 状态， 0-正常，1-下架 */
     private Integer productStatus;
 
+    /** 类目编号 */
     private Integer categoryType;
 }
