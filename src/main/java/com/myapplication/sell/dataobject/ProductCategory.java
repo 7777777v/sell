@@ -27,7 +27,6 @@ public class ProductCategory {
     }
 
     /** 类目id */
-
     @Id
     @GeneratedValue(strategy=GenerationType.IDENTITY)
     private Integer categoryId;
