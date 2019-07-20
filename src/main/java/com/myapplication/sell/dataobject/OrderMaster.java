@@ -9,7 +9,6 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import java.math.BigDecimal;
 import java.util.Date;
-import java.util.List;
 
 /**
  * @Auther: 2985062714@qq.com
@@ -51,5 +50,4 @@ public class OrderMaster {
 
     /** 更新时间 */
     private Date updateTime;
-
 }
